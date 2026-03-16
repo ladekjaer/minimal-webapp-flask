@@ -1,5 +1,5 @@
 import os
-from flask import Flask, send_from_directory, url_for
+from flask import Flask, send_from_directory
 import psycopg
 
 # Establish a persistent connection
